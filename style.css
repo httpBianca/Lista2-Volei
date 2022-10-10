@@ -82,3 +82,7 @@ a:hover{
   height: 50px;
   position: absolute;
 }
+img, iframe{
+  height: 100%;
+  width: 100%;
+}
